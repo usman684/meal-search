@@ -38,17 +38,12 @@ function App() {
         <a>Beef</a>
         <a>Chicken</a>
         <a>Biryani</a>
-        <a>Dessert</a>
         <a>Lamb</a>
-        <a>Miscellaneous</a>
         <a>Pasta</a>
         <a>Pork</a>
         <a>Seafood</a>
-        <a>Side</a>
-        <a>Starter</a>
         <a>Vegan</a>
         <a>Vegetarian</a>
-        <a>Breakfast</a>
         <a>Goat</a>
       </nav>
 
