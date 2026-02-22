@@ -37,10 +37,15 @@ function App() {
       <nav className="bg-red-800 text-white text-center text-1xl p-4 font-bold flex justify-evenly">
         <a>Beef</a>
         <a>Chicken</a>
+        <a>Soup</a>
         <a>Biryani</a>
         <a>Lamb</a>
+        <a>Bread</a>
+        <a>Ice Cream</a>
+        <a>Biscuits</a>
         <a>Pasta</a>
         <a>Pork</a>
+        <a>Roti</a>
         <a>Seafood</a>
         <a>Vegan</a>
         <a>Vegetarian</a>
